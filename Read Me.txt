@@ -1,0 +1,12 @@
+
+General Description:
+	This program has been made by Mathew Dasalla, which is part of the project in the "Information Management" subject of the developer's college: Polytechnic University of the Philippines.
+	This program was developed during the developer's sophomore year in the institution.
+
+
+Instructions:
+	In order to run the code, user must go to src folder, package 1 folder, and run the main.form file.
+	All files included here must be present inn the same folder when running the program. Moreover, a database
+	must be premade, with the Database Details the same as the ones used in the program source code.
+
+
