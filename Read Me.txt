@@ -1,7 +1,8 @@
 
 General Description:
 	This program has been made by Mathew Dasalla, which is part of the project in the "Information Management" subject of the developer's college: Polytechnic University of the Philippines.
-	This program was developed during the developer's sophomore year in the institution.
+	This program was developed during the developer's sophomore year in the institution. The project, however was made by the team of Mathew Dasalla. The project is further explained
+	in the 'Project Paper' file.
 
 
 Instructions:
